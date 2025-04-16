@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  font-family: 'Press Start 2P', cursive;
+  background-color: #ffe6f0;
+  color: #4c004c;
+  text-align: center;
+  padding: 2rem;
+}
+
+button {
+  background-color: #ff99cc;
+  border: none;
+  padding: 1rem 2rem;
+  margin: 1rem;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 12px;
+  cursor: pointer;
+  border
